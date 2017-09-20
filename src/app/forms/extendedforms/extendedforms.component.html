@@ -1,0 +1,216 @@
+<div class="main-content">
+    <div class="container-fluid">
+        <div class="card">
+            <div class="card-content">
+                <br>
+                <div class="row">
+                    <div class="col-md-6">
+                        <legend>Datepicker</legend>
+                        <md-datepicker-toggle mdSuffix [for]="resultPicker">
+                        </md-datepicker-toggle>
+                        <md-input-container>
+                            <input mdInput
+                                [mdDatepicker]="resultPicker"
+                                placeholder="Pick a day">
+                        </md-input-container>
+                        <md-datepicker
+                            #resultPicker
+                            [touchUi]="touch"
+                            [startView]="'month'">
+                        </md-datepicker>
+                    </div>
+                    <div class="col-md-6">
+                        <legend>Datepicker Year</legend>
+                        <md-datepicker-toggle mdSuffix [for]="datepickerYear">
+                        </md-datepicker-toggle>
+                        <md-input-container>
+                          <input mdInput
+                                 [mdDatepicker]="datepickerYear"
+                                 placeholder="Pick a year">
+                        </md-input-container>
+                        <md-datepicker
+                            #datepickerYear
+                            [startView]="'year'">
+                        </md-datepicker>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-md-6">
+                        <legend>Switches</legend>
+                        <div class="togglebutton">
+                            <label>
+                                <input type="checkbox" checked> Toggle is on
+                            </label>
+                        </div>
+                        <div class="togglebutton">
+                            <label>
+                                <input type="checkbox"> Toggle is off
+                            </label>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <legend>Customisable Select</legend>
+
+                        <div class="row">
+                            <div class="col-lg-5 col-md-6 col-sm-3">
+                                <md-select multiple [color]="selectTheme" placeholder="Multiple Cities" [(ngModel)]="currentCity" name="city">
+                                    <md-option *ngFor="let city of cities" [value]="city.value">
+                                        {{ city.viewValue }}
+                                    </md-option>
+                                </md-select>
+                            </div>
+                            <div class="col-lg-5 col-md-6 col-sm-3">
+                                <md-select [color]="selectTheme" placeholder="Single City" name="city" ngClass="btn btn-primary btn-round simple">
+                                  <md-option *ngFor="let city of cities" [value]="city.value">
+                                    {{ city.viewValue }}
+                                  </md-option>
+                                </md-select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-md-6">
+                        <legend>Tags</legend>
+                        Regular: <tag-input [(ngModel)]='regularItems' theme='filled-theme'></tag-input>
+                    </div>
+                    <div class="col-md-6">
+                        <legend>Dropdown & Dropup</legend>
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-3">
+                                <div class="dropdown">
+                                    <button href="#pablo" class="dropdown-toggle btn btn-primary btn-round btn-block" data-toggle="dropdown">Dropdown
+                                        <b class="caret"></b>
+                                    </button>
+                                    <ul class="dropdown-menu dropdown-menu-left">
+                                        <li class="dropdown-header">Dropdown header</li>
+                                        <li>
+                                            <a href="#pablo">Action</a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">Another action</a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">Something else here</a>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li>
+                                            <a href="#pablo">Separated link</a>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li>
+                                            <a href="#pablo">One more separated link</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6 col-sm-3">
+                                <div class="dropup">
+                                    <button href="#pablo" class="dropdown-toggle btn btn-primary btn-round btn-block" data-toggle="dropdown">Dropup
+                                        <b class="caret"></b>
+                                    </button>
+                                    <ul class="dropdown-menu dropdown-menu-left">
+                                        <li class="dropdown-header">Dropdown header</li>
+                                        <li>
+                                            <a href="#pablo">Action</a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">Another action</a>
+                                        </li>
+                                        <li>
+                                            <a href="#pablo">Something else here</a>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li>
+                                            <a href="#pablo">Separated link</a>
+                                        </li>
+                                        <li class="divider"></li>
+                                        <li>
+                                            <a href="#pablo">One more separated link</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <div class="row">
+                    <div class="col-md-6">
+                        <legend>Progress Bars</legend>
+                        <div class="progress progress-line-primary">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 30%;">
+                                <span class="sr-only">60% Complete</span>
+                            </div>
+                        </div>
+                        <div class="progress progress-line-info">
+                            <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
+                                <span class="sr-only">60% Complete</span>
+                            </div>
+                        </div>
+                        <div class="progress progress-line-danger">
+                            <div class="progress-bar progress-bar-success" style="width: 35%">
+                                <span class="sr-only">35% Complete (success)</span>
+                            </div>
+                            <div class="progress-bar progress-bar-warning" style="width: 20%">
+                                <span class="sr-only">20% Complete (warning)</span>
+                            </div>
+                            <div class="progress-bar progress-bar-danger" style="width: 10%">
+                                <span class="sr-only">10% Complete (danger)</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <legend>Sliders</legend>
+                        <nouislider [connect]="false" [min]="0" [max]="100" [step]="1" [(ngModel)]="simpleSlider" [tooltips]="true" class="slider"></nouislider>
+                        <br>
+                        <nouislider class="slider slider-info" [connect]="true" [min]="0" [max]="100" [step]="1" [(ngModel)]="doubleSlider" [tooltips]="true"></nouislider>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 col-sm-4">
+                        <legend>Regular Image</legend>
+                        <div class="fileinput fileinput-new text-center" data-provides="fileinput">
+                            <div class="fileinput-new thumbnail">
+                                <img src="../../assets/img/image_placeholder.jpg" alt="...">
+                            </div>
+                            <div class="fileinput-preview fileinput-exists thumbnail"></div>
+                            <div>
+                                <span class="btn btn-rose btn-round btn-file">
+                                    <span class="fileinput-new">Select image</span>
+                                    <span class="fileinput-exists">Change</span>
+                                    <input type="file" name="..." />
+                                </span>
+                                <a href="#pablo" class="btn btn-danger btn-round fileinput-exists" data-dismiss="fileinput"><i class="fa fa-times"></i> Remove</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-3 col-sm-4">
+                        <legend>Avatar</legend>
+                        <div class="fileinput fileinput-new text-center" data-provides="fileinput">
+                            <div class="fileinput-new thumbnail img-circle">
+                                <img src="../../assets/img/placeholder.jpg" alt="...">
+                            </div>
+                            <div class="fileinput-preview fileinput-exists thumbnail img-circle"></div>
+                            <div>
+                                <span class="btn btn-round btn-rose btn-file">
+                                    <span class="fileinput-new">Add Photo</span>
+                                    <span class="fileinput-exists">Change</span>
+                                    <input type="file" name="..." />
+                                </span>
+                                <br />
+                                <a href="#pablo" class="btn btn-danger btn-round fileinput-exists" data-dismiss="fileinput"><i class="fa fa-times"></i> Remove</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end card -->
+    </div>
+</div>
