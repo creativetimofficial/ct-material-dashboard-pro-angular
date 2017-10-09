@@ -21,7 +21,7 @@
 - fixed DataTables folder
 - fixed autofill problem for input
 
-## [1.4.1] - 2017-08-23
+## [1.4.1] - 2017-08-23 
 ### Small fixes
 - Added SCSS file to native Angular compiler
 - Added dynamic title back
