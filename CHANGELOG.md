@@ -1,3 +1,38 @@
+## [1.4.5] - 2017-10-25
+### Fixes
+- changed perfect-scrollbar v1.1.0
+- fixed forms validation
+- fixed select picker
+- fixed warnings from npm install
+- fixed modal on small screens
+- added MatTooltips from material angular
+- fixed login page blank line on right
+- added collapse type for sidebar
+- fixed wizard
+
+## [1.4.4] - 2017-10-09
+### Small fixes
+- fixed perfect-scrollbar
+
+## [1.4.3] - 2017-10-05
+### Small fixes
+- added jvectormap in node_modules
+- added jquery-validate in node_modules
+- added sweetalert2 in node_modules
+- added perfect-scrollbar in node_modules
+- added all required css and scss files in angular-cli.json
+- fixed tags scss problems
+- fixed select picker problem
+- added ripples effect
+- added scrooltop when changing route
+- added caret for selectpicker form-control style
+
+## [1.4.2] - 2017-09-19
+### Small fixes
+- fixed datepicker
+- fixed DataTables folder
+- fixed autofill problem for input
+
 ## [1.4.1] - 2017-08-23
 ### Small fixes
 - Added SCSS file to native Angular compiler
