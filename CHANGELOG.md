@@ -1,3 +1,13 @@
+## [1.4.7] - 2017-12-07
+### Fixes
+- fixed selectpicker error on IE and Firefox
+
+## [1.4.6] - 2017-11-29
+### Fixes
+- fixed validation error
+- fixed sweetalert2 errors
+- fixed scrolltop for all browsers
+
 ## [1.4.5] - 2017-10-25
 ### Fixes
 - changed perfect-scrollbar v1.1.0
@@ -32,7 +42,6 @@
 - fixed datepicker
 - fixed DataTables folder
 - fixed autofill problem for input
-
 
 ## [1.4.1] - 2017-08-23
 ### Small fixes
