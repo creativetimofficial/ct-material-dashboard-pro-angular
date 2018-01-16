@@ -257,4 +257,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
 
-[version-badge]: https://img.shields.io/badge/version-1.4.4-blue.svg 
+[version-badge]: https://img.shields.io/badge/version-1.5.0-blue.svg 

@@ -1,3 +1,33 @@
+## [1.5.0] - 2018-01-16
+### Fixes
+- update to Angular 5
+- added fixed plugin
+- fixed wizard error on resize
+- added RTL support
+- fixed prefect scrollbar when modal is open
+
+## [1.4.7] - 2017-12-07
+### Fixes
+- fixed selectpicker error on IE and Firefox
+
+## [1.4.6] - 2017-11-29
+### Fixes
+- fixed validation error
+- fixed sweetalert2 errors
+- fixed scrolltop for all browsers
+
+## [1.4.5] - 2017-10-25
+### Fixes
+- changed perfect-scrollbar v1.1.0
+- fixed forms validation
+- fixed select picker
+- fixed warnings from npm install
+- fixed modal on small screens
+- added MatTooltips from material angular
+- fixed login page blank line on right
+- added collapse type for sidebar
+- fixed wizard
+
 ## [1.4.4] - 2017-10-09
 ### Small fixes
 - fixed perfect-scrollbar
@@ -21,7 +51,7 @@
 - fixed DataTables folder
 - fixed autofill problem for input
 
-## [1.4.1] - 2017-08-23 
+## [1.4.1] - 2017-08-23
 ### Small fixes
 - Added SCSS file to native Angular compiler
 - Added dynamic title back
