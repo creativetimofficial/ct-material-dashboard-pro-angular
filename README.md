@@ -1,4 +1,4 @@
-# [Material Dashboard Angular PRO](https://www.creative-tim.com/product/material-dashboard-pro-angular2)[![version][version-badge]][CHANGELOG]
+# [Material Dashboard PRO Angular ](https://www.creative-tim.com/product/material-dashboard-pro-angular2)[![version][version-badge]][CHANGELOG]
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/55/opt_mdp_angular_thumbnail.jpg "Material Dashboard Angular 2 Free")
 
@@ -45,7 +45,7 @@ Quick start options:
 Within the download you'll find the following directories and files:
 
 ```
-md-angular-cli-pro
+material-dashboar-pro-angular
 ├── CHANGELOG.md
 ├── README.md
 ├── angular-cli.json
@@ -257,4 +257,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
 
-[version-badge]: https://img.shields.io/badge/version-1.5.0-blue.svg 
+[version-badge]: https://img.shields.io/badge/version-2.0.0-blue.svg

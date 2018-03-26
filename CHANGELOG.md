@@ -1,3 +1,11 @@
+## [2.0.0] - 2018-03-26
+### Bootstrap 4 update
+- added bootstrap 4
+- fixed mini sidebar
+- fixed warnings
+- fixed notification with icon
+- fixed modal(without title) close button
+
 ## [1.5.0] - 2018-01-16
 ### Fixes
 - update to Angular 5
