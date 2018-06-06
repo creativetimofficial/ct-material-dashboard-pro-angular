@@ -6,7 +6,7 @@
 
 Material Dashboard makes use of light, surface and movement. The general layout resembles sheets of paper following multiple different layers, so that the depth and order is obvious. The navigation stays mainly on the left sidebar and the content is on the right inside the main panel.
 
-This product came as a result of users asking for a material dashboard after we released our successful [Material Kit](http://www.creative-tim.com/product/material-kit). We developed it based on your feedback and it is a powerful bootstrap admin dashboard, which allows you to build products like admin panels, content managements systems and CRMs.
+This product came as a result of users asking for a material dashboard after we released our successful [Material Kit](https://www.creative-tim.com/product/material-kit). We developed it based on your feedback and it is a powerful bootstrap admin dashboard, which allows you to build products like admin panels, content managements systems and CRMs.
 
 Material Dashboard comes with 5 color filter choices for both the sidebar and the card headers (blue, green, orange, red and purple) and an option to have a background image on the sidebar.
 
@@ -22,13 +22,13 @@ You can find the Github Repo here.
 ## Links:
 
 + [Live Preview](https://www.creative-tim.com/product/material-dashboard-pro-angular2)
-+ [Material Kit - For Front End Development](http://www.creative-tim.com/product/material-kit?ref=github-md-angular)
++ [Material Kit - For Front End Development](https://www.creative-tim.com/product/material-kit?ref=github-md-angular)
 
 ## Quick start
 
 Quick start options:
 
-- [Download from Creative Tim](http://www.creative-tim.com/product/material-dashboard-pro-angular2).
+- [Download from Creative Tim](https://www.creative-tim.com/product/material-dashboard-pro-angular2).
 
 ## Terminal Commands
 
@@ -235,13 +235,13 @@ md-angular-cli-pro
 
 ## Useful Links
 
-More products from Creative Tim: <http://www.creative-tim.com/bootstrap-themes>
+More products from Creative Tim: <https://www.creative-tim.com/bootstrap-themes>
 
 Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
 
-Freebies: <http://www.creative-tim.com/products>
+Freebies: <https://www.creative-tim.com/products>
 
-Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
+Affiliate Program (earn money): <https://www.creative-tim.com/affiliates/new>
 
 Social Media:
 
@@ -257,4 +257,4 @@ Instagram: <https://instagram.com/creativetimofficial>
 
 [CHANGELOG]: ./CHANGELOG.md
 
-[version-badge]: https://img.shields.io/badge/version-1.4.7-blue.svg
+[version-badge]: https://img.shields.io/badge/version-2.1.0-blue.svg
