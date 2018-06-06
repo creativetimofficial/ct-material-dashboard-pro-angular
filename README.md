@@ -1,4 +1,4 @@
-# [Material Dashboard Angular PRO](https://www.creative-tim.com/product/material-dashboard-pro-angular2)[![version][version-badge]][CHANGELOG]
+# [Material Dashboard PRO Angular ](https://www.creative-tim.com/product/material-dashboard-pro-angular2)[![version][version-badge]][CHANGELOG]
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/55/opt_mdp_angular_thumbnail.jpg "Material Dashboard Angular 2 Free")
 

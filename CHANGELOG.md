@@ -1,3 +1,42 @@
+## [2.1.0] - 2018-06-06
+### Changes
+- added Angular 6
+- fixed navbar on auth pages for IE
+- fixed perfectScrollbar on Calendar
+- fixed responsive sidebar(burger menu problem)
+- update to bootstrap 4.1
+
+## [2.0.2] - 2018-05-02
+### Fixed
+- fixed menu on left
+- fixed vaidation forms
+- fixed autoclose close-layer on route changed
+- fixed loader
+- fixed datatable pagination style
+
+## [2.0.1] - 2018-04-24
+### Fixed
+- fixed style for burger menu
+- fixed form control styling
+- added close-layer on responsive
+- other small style fixes
+
+## [2.0.0] - 2018-03-26
+### Bootstrap 4 update
+- added bootstrap 4
+- fixed mini sidebar
+- fixed warnings
+- fixed notification with icon
+- fixed modal(without title) close button
+
+## [1.5.0] - 2018-01-16
+### Fixes
+- update to Angular 5
+- added fixed plugin
+- fixed wizard error on resize
+- added RTL support
+- fixed prefect scrollbar when modal is open
+
 ## [1.4.7] - 2017-12-07
 ### Fixes
 - fixed selectpicker error on IE and Firefox
