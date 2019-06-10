@@ -1,6 +1,6 @@
 # [Material Dashboard PRO Angular](https://demos.creative-tim.com/material-dashboard-pro-angular2/)
 
-![version](https://img.shields.io/badge/version-2.1.1-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.3.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://media.giphy.com/media/fVelPn4iBLS9c3bvCt/giphy.gif)
 
@@ -82,7 +82,7 @@ Quick start options:
 7. Navigate to [localhost:4200](localhost:4200)
 
 ## Documentation
-The documentation for the Material Dashboard Pro is hosted at our [website](https://demos.creative-tim.com/material-dashboard-pro-angular2/documentation/tutorial).
+The documentation for the Material Dashboard Pro Angular is hosted at our [website](https://demos.creative-tim.com/material-dashboard-pro-angular2/documentation/tutorial).
 
 ### What's included
 
@@ -297,7 +297,7 @@ At present, we officially aim to support the last two versions of the following 
 - Support: https://www.creative-tim.com/contact-us
 - Issues: [Github Issues Page](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues)
 - Material Dashboard Angular - [demo](https://www.creative-tim.com/product/material-dashboard-angular2?ref=github-mda-pro)
-- For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=github-md-pro)
+- For Front End Development - [Material Kit Pro ](https://www.creative-tim.com/product/material-kit-pro?ref=github-mda-pro)
 
 ## Reporting Issues
 We use GitHub Issues as the official bug tracker for the Material Dashboard Pro Angular. Here are some advices for our users that want to report an issue:
