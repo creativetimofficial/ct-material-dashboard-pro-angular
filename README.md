@@ -1,6 +1,6 @@
 # [Material Dashboard PRO Angular](https://demos.creative-tim.com/material-dashboard-pro-angular2/)
 
-![version](https://img.shields.io/badge/version-3.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.4.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/ct-material-dashboard-pro-angular.svg?maxAge=2592000)](https://github.com/creativetimofficial/ct-material-dashboard-pro-angular/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Product Gif](https://media.giphy.com/media/fVelPn4iBLS9c3bvCt/giphy.gif)
 
