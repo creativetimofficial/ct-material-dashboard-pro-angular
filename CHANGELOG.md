@@ -1,3 +1,8 @@
+## [2.4.1] - 2020-03-05
+### Changes
+- replace checkbox input type with mat-checkbox
+- replace radio input type with mat-radio-button
+
 ## [2.4.0] - 2020-02-18
 ### Updates
 - update to Angular 9
