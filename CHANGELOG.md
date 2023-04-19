@@ -1,3 +1,7 @@
+## [2.8.1] - 2023-04-19
+### Updates
+- Menu item collapse issue fixed
+
 ## [2.8.0] - 2022-12-06
 ### Updates
 - update to Angular 14
