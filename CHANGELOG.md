@@ -1,3 +1,12 @@
+## [2.9.0] - 2023-07-06
+### Updates
+- update to Angular 15
+- update all dependencies to match the Angular 15 version
+- angular materials update with MDC
+- material design fixes
+- data table and form fixes
+- configuration updated
+
 ## [2.8.1] - 2023-04-19
 ### Updates
 - Menu item collapse issue fixed
